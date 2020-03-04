@@ -7,4 +7,4 @@ const Color primaryTextColor = Color(0xFF1A1316);
 const Color secondaryTextColor = Color(0xFF8391A0);
 const Color tertiaryTextColor = Color(0xFFB5ADAC);
 final Color greenColor = Colors.green.shade400;
-final Color blueColor = Colors.lightBlueAccent;
+const Color blueColor = Colors.lightBlueAccent;
